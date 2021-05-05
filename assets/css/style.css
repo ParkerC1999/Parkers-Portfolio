@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: right;
+}
+
+header {
+    background: navy;
+    padding: 20px 35px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    top: 0;
+    display: flex;
+}
+
+header h1 {
+    font-size: 35px;
+    margin: 0;
+}
+
+header a {
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+header nav {
+    margin: 7px 0;
+}
+
+header nav ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+header nav ul li a {
+    padding: 10px 15px;
+    font-size: 20px;
+    font-size: 1.55vw;
+}
+
+.section-title {
+    color: navy;
+    border-right: 5px solid orange;
+    padding: 10px;
+    margin-right: 20px;
+    width: 175px;
+}
+
+/* About me style starts */
+.about-me {
+    background: lightgray;
+    display: flex;
+    padding: 25px;
+}
+
+.me-title h2 {
+    vertical-align: top;
+    text-align: right;
+}
+
+.me-text {
+    width: 85%;
+}
+
+/* About me style ends */
+
+/* My work stle starts */
+.my-work {
+    display: flex;
+    padding: 25px;
+}
+
+.main-project a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    background: navy;
+}
+
+/* My work syle ends */
+
+/* Contact style starts */
+.contact-me {
+    display: flex;
+    padding: 25px;
+    background: lightgray;
+}
+    
+/* Contact style ends */
+
+/* Resume style Starts */
+.resume {
+    display: flex;
+    padding: 25px;
+}
