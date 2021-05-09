@@ -7,4 +7,4 @@ HTML
 CSS
 
 ## Contribution
-Made by Parker
+Made by Parker Christiansen
