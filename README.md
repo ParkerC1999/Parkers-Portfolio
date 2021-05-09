@@ -1,12 +1,12 @@
-## Parker Christiansen's Portfolio
-# Purpose
+# Parker Christiansen's Portfolio
+## Purpose
 A website that that showcases Parker's recent works and contact information.
 
-# Built With
+## Built With
 HTML
 CSS
 
-# Website
+## Website
 
 
 Contribution
