@@ -9,4 +9,4 @@ CSS
 ## Contribution
 Made by Parker Christiansen
 
-![Website Screenshot](/assets/images/website-image.png)
+![Website Screenshot](/assets/images/website-image.PNG)
