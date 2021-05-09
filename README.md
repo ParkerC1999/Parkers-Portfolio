@@ -6,8 +6,5 @@ A website that that showcases Parker's recent works and contact information.
 HTML
 CSS
 
-## Website
-
-
-Contribution
+## Contribution
 Made by Parker
