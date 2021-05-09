@@ -57,6 +57,25 @@ header nav ul li a {
     width: 175px;
 }
 
+/* Jumbotron stlye starts */
+.jumbotron {
+    background-image: url("../images/picture-of-trees.jpg");
+    background-position: center;
+    height: 233px;
+    display: flex;
+}
+
+.jumbotron img {
+    height: 233px;
+    width: 233px;
+    border-right: navy solid 10px;
+    border-bottom: navy solid 10px;
+    border-bottom-right-radius: 100px;
+    display: flex;
+}
+
+/* Jumbotron style ends */
+
 /* About me style starts */
 .about-me {
     background: lightgray;
@@ -202,13 +221,35 @@ header nav ul li a {
         width: 150px;
         white-space: normal;
     }
+
+    header nav ul li a {
+        font-size: 23px;
+    }
+
+    .jumbotron {
+        height: 400px;
+    }
+
+    .jumbotron img {
+        border: navy solid 10px;
+        border-bottom-right-radius: 15px;
+        border-radius: 15px;
+        align-items: center;
+        margin: auto;
+        height: 260px;
+        width: 260px;
+    }
 }
 
 @media screen and (max-width: 575px) {
     .section-title {
-        width: 120;
-        font-size: smaller;
+        width: 100;
+        font-size: 10px;
         white-space: normal;
+    }
+
+    header nav ul li a {
+        font-size: 25px;
     }
     
 }
